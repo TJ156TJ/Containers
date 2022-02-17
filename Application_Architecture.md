@@ -53,7 +53,7 @@ To do this you first create a personal access token in Gitlab GIT Repo.
 ***** insert process ****
 ```
 
-D3 – Install And Set Up FluxCD
+### D3 – Install And Set Up FluxCD
 Finally, you set up flux in your Kubernetes cluster, so it can read and write back to the gitops-example-deploy repository.
 
 ```
@@ -75,7 +75,7 @@ You have now set up all the secrets that need setting up to make the flow work.
 
 You will now make a change and will follow the links in the steps as the application builds and deploys without intervention from you.
 
-E – Build And Run Your Application
+## E – Build And Run Your Application
 To deploy your application, all you need to do is make a change to the application in your gitops-example-app repository.
 
 
