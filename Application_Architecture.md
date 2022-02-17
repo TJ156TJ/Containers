@@ -4,7 +4,7 @@ The Steps
 Here’s an overview of the steps outlined below:
 
 * A – Pre-Requisites
-* B – Fork The Repositories
+* B – Clone The 3 app Repositories
 * C – Create The Infrastructure
 * D – Set Up Secrets And Keys
     * D1 – Docker Registry Login Secret Setup
@@ -22,8 +22,8 @@ You will need:
 * fluxctl installed to your host. 
 * AKS installed to your host. 
 
-## B – Fork the Repositories
-Fork these three repositories to your own Gitlab GIT Repo account:
+## B – Clone the Repositories
+Clone these three repositories to your own Gitlab GIT Repo account:
 
 * https://GitlabGITRepo/"projectname"/gitops-example-app
 * https://GitlabGITRepo/"projectname"/gitops-example-deploy
