@@ -32,6 +32,10 @@ NB: AKS is the intial target
 ## Deployment
 [GitLab Architecture](GitLab_Setup.md)
 
+[Canary deployments](Canary_Release.md)
+
+
+
 ## Container Registry
 
 [Container Registry](Container_Regsitry.md)
