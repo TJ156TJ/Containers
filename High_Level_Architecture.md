@@ -6,7 +6,9 @@ Sections
 
 * Repository
 
+[GitLab Architecture](GitLab_Setup.md)
 * Code Testing
+
 * Build tooling / process
 * Integration Testing
 * Deployment
