@@ -2,7 +2,6 @@
 
 ![HLD](HLD.png)
 
-Sections
 
 ## Repository
 
@@ -22,10 +21,24 @@ Sections
 [GitLab Architecture](GitLab_Setup.md)
 
 ## Container Registry
+
+[Container Registry](Container_Regsitry.md)
+
 ## GitOps tooling / process
+
+[Gitops Tooling](Gitops_Tooling.md)
+
 ## Secret management
+
+[Secrets Management](Secrets_Management.md)
+
 ## Logging and monitoring
+
+[Logging and Monitoring](Logging_Monitoring.md)
+
 ## Security
+
+[Security Architecture](Security_Architecture.md)
 
 
 
