@@ -4,10 +4,15 @@
 
 [Click this link for the tooling and process decision matrix](Decision_Table.MD)
 
+## Application Architecture
+
+
+[Application Architecture](Application_Architecture.md)
 
 ## Repository
 
 [GitLab Architecture](GitLab_Setup.md)
+
 ## Code Testing
 
 [Testing process](Testing_Process.md)
@@ -19,6 +24,7 @@
 ## Integration Testing
 
 [Testing process](Testing_Process.md)
+
 ## Deployment
 [GitLab Architecture](GitLab_Setup.md)
 
